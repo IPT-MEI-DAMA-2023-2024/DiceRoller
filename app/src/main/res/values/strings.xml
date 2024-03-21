@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dice Roller</string>
+    <string name="dice_description">Dice image</string>
+    <string name="bt_description">Roll the dice</string>
 </resources>
